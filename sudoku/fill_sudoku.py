@@ -1,4 +1,10 @@
 # Sudoku filler
+# Application to fill sudoku board
+
+# Input: a sudoku board hasn't filled
+# Output: a sudoku baord filled
+
+
 from datetime import datetime
 
 

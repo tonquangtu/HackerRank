@@ -1,6 +1,6 @@
 
 
-# Input a number and the algorithm convert this number to binary presentation
+# Input a number and the algorithm will convert this number to binary format
 def binary_convert(number):
     result = []
     while number > 0:
